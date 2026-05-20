@@ -59,7 +59,7 @@ I was given the raw government accident CSV dataset and tasked to build a comple
 
 ## 📊 Dashboard Preview
 
-![Road Accident Dashboard](Road_Accident_Dashboard.png)
+![Road Accident Dashboard](https://github.com/PatlaveetiJabeer786/Road-Accident-project/blob/main/Road_Accident_Dash_Board.png)
 
 *👆 Interactive Excel Dashboard — KPI Cards, Monthly Trends, Breakdown by Severity, Vehicle Type, Road Type & Surface*
 
